@@ -60,7 +60,7 @@
 	  "tab.border": "#241b2f00",
 	  "tab.activeBorder": "#880088",
 	  "tab.inactiveBackground": "#262335",
-	  "editor.background": "#241b2f",
+	  "editor.background": "#262335",
 	  "editorLineNumber.foreground": "#ffffff10",
 	  "editorLineNumber.activeForeground": "#ffffff73",
 	  "editorCursor.background": "#241b2f",
@@ -191,7 +191,7 @@
 		"name": "Language variable",
 		"scope": "variable.language",
 		"settings": {
-		  "foreground": "#b14deb",
+		  "foreground": "#9966B8",
 		  "fontStyle": "bold"
 		}
 	  },
@@ -216,7 +216,7 @@
 		"name": "Constant",
 		"scope": "constant",
 		"settings": {
-		  "foreground": "#b14deb"
+		  "foreground": "#9966B8"
 		}
 	  },
 	  {
@@ -230,7 +230,7 @@
 		"name": "Number",
 		"scope": "constant.numeric",
 		"settings": {
-		  "foreground": "#b14deb"
+		  "foreground": "#9966B8"
 		}
 	  },
 	  {
