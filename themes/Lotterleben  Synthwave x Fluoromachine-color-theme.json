@@ -1,7 +1,11 @@
+// vibrant-turqoise: #26fffc
+// middle-blue: #24baff
+
 // pastel-lilac = #9966B8
 // middle-purple = #b14deb
-// dark-purple (ex string default) = #8a2dc0
+// muddy dark-purple (ex string default) = #8a2dc0
 // background-purple: #241b2f
+// super-dark-purple (side bar): #191321
 {
 	"name": "SynthWave 84",
 	"type": "dark",
@@ -180,7 +184,7 @@
 		  "entity.name.variable"
 		],
 		"settings": {
-		  "foreground": "#61e2ff"
+		  "foreground": "#24baff"
 		}
 	  },
 	  {
@@ -305,7 +309,7 @@
 		  "variable.function"
 		],
 		"settings": {
-		  "foreground": "#36f9f6"
+		  "foreground": "#26fffc"
 		}
 	  },
 	  {
