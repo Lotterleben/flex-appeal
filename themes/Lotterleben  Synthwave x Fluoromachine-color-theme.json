@@ -7,7 +7,7 @@
 // background-purple: #241b2f
 // super-dark-purple (side bar): #191321
 {
-	"name": "SynthWave 84",
+	"name": "Lotterleben | Synthwave x Fluoromachine",
 	"type": "dark",
 	"colors": {
 	  "focusBorder": "#1f212b",
@@ -49,7 +49,7 @@
 	  "activityBar.foreground": "#ffffffCC",
 	  "activityBarBadge.background": "#8a2dc0",
 	  "activityBarBadge.foreground": "#2a2139",
-	  "sideBar.background": "#191321",
+	  "sideBar.background": "#241b2f",
 	  "sideBar.foreground": "#ffffff99",
 	  "sideBar.dropBackground": "#34294f4c",
 	  "sideBarSectionHeader.background": "#241b2f",
@@ -119,20 +119,22 @@
 	  "extensionButton.prominentBackground": "#8a2dc0",
 	  "extensionButton.prominentHoverBackground": "#61e2ff",
 	  "pickerGroup.foreground": "#8a2dc0ea",
+
+	  // NOTE: Terminal colors are haphazardly picked and very much WIP
 	  "terminal.background":"#0c0913",
 	  "terminal.foreground":"#eee8f8",
 	  "terminal.foreground": "#ffffff",
 	  "terminal.ansiBlack":"#1D2021",
-	  "terminal.ansiBlue": "#03edf9",
+	  "terminal.ansiBlue": "#26fffc",
 	  "terminal.ansiBrightBlack":"#665C54",
 	  "terminal.ansiBrightBlue":"#8a2dc0",
-	  "terminal.ansiBrightCyan":"#03edf9",
+	  "terminal.ansiBrightCyan":"#26fffc",
 	  "terminal.ansiBrightGreen":"#6ce61a",
 	  "terminal.ansiBrightMagenta":"#f92aad",
 	  "terminal.ansiBrightRed":"#ac3b3b",
 	  "terminal.ansiBrightWhite":"#eee8f8",
 	  "terminal.ansiBrightYellow":"#fafd54",
-	  "terminal.ansiCyan":"#59615e",
+	  "terminal.ansiCyan":"#00FFFF",
 	  "terminal.ansiGreen":"#6ce61a",
 	  "terminal.ansiMagenta":"#8F4673",
 	  "terminal.ansiRed":"#f83117",
@@ -141,6 +143,7 @@
 	  "terminal.selectionBackground": "#34294f4d",
 	  "terminalCursor.background": "#A89984",
 	  "terminalCursor.foreground": "#A89984",
+
 	  "debugToolBar.background": "#241b2f",
 	  "walkThrough.embeddedEditorBackground": "#232530",
 	  "gitDecoration.modifiedResourceForeground": "#b893ceee",
