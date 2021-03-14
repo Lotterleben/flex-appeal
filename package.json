@@ -2,6 +2,7 @@
     "name": "flex-appeal",
     "displayName": "flex appeal",
     "description": "Higher-contrast fork of the Synthwave '84 x Fluoromachine Theme",
+    "publisher": "lotterleben",
     "version": "0.0.1",
     "engines": {
         "vscode": "^1.54.0"
@@ -10,12 +11,10 @@
         "Themes"
     ],
     "contributes": {
-        "themes": [
-            {
-                "label": "flex-appeal",
-                "uiTheme": "vs-dark",
-                "path": "./themes/flex-appeal-color-theme.json"
-            }
-        ]
+        "themes": [{
+            "label": "flex-appeal",
+            "uiTheme": "vs-dark",
+            "path": "./themes/flex-appeal-color-theme.json"
+        }]
     }
 }
