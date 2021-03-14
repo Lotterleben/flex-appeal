@@ -129,13 +129,13 @@
 	  "terminal.ansiBrightBlack":"#665C54",
 	  "terminal.ansiBrightBlue":"#8a2dc0",
 	  "terminal.ansiBrightCyan":"#26fffc",
-	  "terminal.ansiBrightGreen":"#6ce61a",
+	  "terminal.ansiBrightGreen":"#32CD32",
 	  "terminal.ansiBrightMagenta":"#f92aad",
 	  "terminal.ansiBrightRed":"#ac3b3b",
 	  "terminal.ansiBrightWhite":"#eee8f8",
 	  "terminal.ansiBrightYellow":"#fafd54",
 	  "terminal.ansiCyan":"#00FFFF",
-	  "terminal.ansiGreen":"#6ce61a",
+	  "terminal.ansiGreen":"#32CD32",
 	  "terminal.ansiMagenta":"#8F4673",
 	  "terminal.ansiRed":"#f83117",
 	  "terminal.ansiWhite":"#fffbf6",
@@ -375,7 +375,7 @@
 		"name": "Support function",
 		"scope": "support.function",
 		"settings": {
-		  "foreground": "#36f9f6"
+		  "foreground": "#26fffc"
 		}
 	  },
 	  {
