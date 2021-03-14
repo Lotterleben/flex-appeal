@@ -1,6 +1,6 @@
 # Flex Appeal VS Code Theme
 
-![](flex_appeal_demo.png)
+![](flex_appeal_demo)
 
 This is my fork of the [Synthwave x Fluoromachine](https://marketplace.visualstudio.com/items?itemName=webrender.synthwave-x-fluoromachine) theme, tweaked for higher contrast and screen share legibility.
 
