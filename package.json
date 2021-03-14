@@ -16,5 +16,6 @@
             "uiTheme": "vs-dark",
             "path": "./themes/flex-appeal-color-theme.json"
         }]
-    }
+    },
+    "repository": "https://github.com/Lotterleben/flex-appeal"
 }
