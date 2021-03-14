@@ -1,6 +1,6 @@
 {
-    "name": "lotterleben-synthwave-x-fluoromachine",
-    "displayName": "lotterleben-synthwave-x-fluoromachine",
+    "name": "flex-appeal",
+    "displayName": "flex appeal",
     "description": "Higher-contrast fork of the Synthwave '84 x Fluoromachine Theme",
     "version": "0.0.1",
     "engines": {
@@ -12,9 +12,9 @@
     "contributes": {
         "themes": [
             {
-                "label": "Lotterleben | Synthwave x Fluoromachine",
+                "label": "flex-appeal",
                 "uiTheme": "vs-dark",
-                "path": "./themes/Lotterleben  Synthwave x Fluoromachine-color-theme.json"
+                "path": "./themes/flex-appeal-color-theme.json"
             }
         ]
     }
