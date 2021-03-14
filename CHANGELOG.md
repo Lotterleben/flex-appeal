@@ -6,4 +6,10 @@ Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how 
 
 ## [Unreleased]
 
+
+## [v0.0.1]
+
 - Initial release
+- improve ruler color
+- pick a less dark purple for strings etc. that stands out more against the background
+- add rudimentary terminal colors
