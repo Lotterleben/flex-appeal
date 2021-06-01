@@ -60,7 +60,7 @@
 		"tab.activeBorder": "#880088",
 		"tab.inactiveBackground": "#262335",
 		"editor.background": "#262335",
-		"editorLineNumber.foreground": "#ffffff10",
+		"editorLineNumber.foreground": "#ffffff33",
 		"editorLineNumber.activeForeground": "#ffffff73",
 		"editorCursor.background": "#241b2f",
 		"editorCursor.foreground": "#8a2dc0",
