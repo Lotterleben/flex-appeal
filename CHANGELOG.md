@@ -6,6 +6,8 @@ Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how 
 
 ## [Unreleased]
 
+## [v0.0.2]
+- increase contrast on non-selected line numbers
 
 ## [v0.0.1]
 
